@@ -1,10 +1,3 @@
-- 👋 Hi, I’m pee pee @RedDeveloperCat
-- 👀 I’m interested in Coding Projects and cats.
-- 🌱 I’m currently learning Game Development and Coding in python and other languages.
-- 💞️ I’m looking to collaborate on Nothing currently.
-- 📫 How to reach me Github, simple answer you don't 👍.
+### 👋 Hi, I’m pee pee @RedDeveloperCat
 
-<!---
-RedDeveloperCat/RedDeveloperCat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![](https://media1.giphy.com/media/2ysK0aTLbiQ92/giphy.webp?cid=790b7611m35v9teaedw9a4nkohntvwxpgomvruilmxumh7ag&ep=v1_stickers_search&rid=giphy.webp&ct=s)
