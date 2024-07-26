@@ -1,3 +1,3 @@
 ### 👋 Hi, I’m pee pee @RedDeveloperCat
 
-![](https://media1.giphy.com/media/2ysK0aTLbiQ92/giphy.webp?cid=790b7611m35v9teaedw9a4nkohntvwxpgomvruilmxumh7ag&ep=v1_stickers_search&rid=giphy.webp&ct=s)
+![](https://media2.giphy.com/media/3og0IHpwCNhUCKWbVS/giphy.webp?cid=790b7611yacrh814641w4v0mco7szvo6f1etvaymuk2hb0vo&ep=v1_stickers_search&rid=giphy.webp&ct=s)
